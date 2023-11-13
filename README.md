@@ -17,4 +17,4 @@ If it is located at the beginning or middle of the list, the entire file is
 re-written without that specific task, essentially "removing" that task
 from the list.
 
-The Exist command simply exits the program.
+The Exit command simply exits the program.
